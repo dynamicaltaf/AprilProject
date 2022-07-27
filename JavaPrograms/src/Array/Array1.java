@@ -16,6 +16,7 @@ public class Array1 {
 		System.out.println(ar[1]);  //with the help of index Array called
 		
 		System.out.println("--------------Print all the information in array--------------");
+		System.out.println("______________Print all the information in array______________");
 		
 		for (int i=0; i<=4; i++) {
 			System.out.println(ar[i]);
